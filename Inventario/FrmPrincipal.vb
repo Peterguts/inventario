@@ -4,7 +4,7 @@ Imports System.Security.Cryptography
 Public Class FrmPrincipal
     Dim cnx As New ADODB.Connection
     Dim linkcat As Double = 0
-    Dim cadena As String = "Driver={IBM INFORMIX ODBC DRIVER};Host=192.9.200.1;Server=zeppelinprishm;Service=zeppelinpritcp;Protocol=onsoctcp;Database=data4gl;Uid=informix;Pwd=studioworks;dsn=;"
+    Dim cadena As String = "Driver={MySQL ODBC 5.3 ANSI Driver};Server=127.0.0.1;Database=prueba;User=pedro;Password=pedroPabloCela202355;Option=3;"
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
