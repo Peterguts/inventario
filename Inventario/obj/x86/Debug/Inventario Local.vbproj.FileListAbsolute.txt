@@ -1,0 +1,77 @@
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmAux.resources
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmInventario.resources
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPermiso.resources
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.Resources.resources
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.exe
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.xml
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.pdb
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe.config
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\bin\x86\Debug\Inventario.pdb
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\bin\x86\Debug\Inventario.xml
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\bin\x86\Debug\adodb.dll
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmBarra.resources
+C:\Users\Pedro Pablo\Desktop\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmReportes.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe.config
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\bin\x86\Debug\Inventario.pdb
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\bin\x86\Debug\Inventario.xml
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\bin\x86\Debug\adodb.dll
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmAux.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmBarra.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmInventario.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPermiso.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmReportes.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.Resources.resources
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.exe
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.xml
+C:\Users\Pedro Pablo\Desktop\Git Proyectos\Inventario Local\Inventario\obj\x86\Debug\Inventario.pdb
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe.config
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.pdb
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.xml
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\adodb.dll
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.AssemblyReference.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.SuggestedBindingRedirects.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmAux.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmBarra.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmInventario.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPermiso.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPrincipal.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmReportes.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.Resources.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.GenerateResource.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.CoreCompileInputs.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.CopyComplete
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.exe
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.xml
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.pdb
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe.config
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.exe
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.pdb
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\bin\x86\Debug\Inventario.xml
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmAux.resources
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmBarra.resources
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmInventario.resources
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPermiso.resources
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmPrincipal.resources
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.FrmReportes.resources
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.Resources.resources
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario Local.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.exe
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.xml
+C:\Users\Pedro\Downloads\Inventario Local\Inventario Local\Inventario\obj\x86\Debug\Inventario.pdb

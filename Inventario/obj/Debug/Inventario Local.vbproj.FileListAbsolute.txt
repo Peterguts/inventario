@@ -1,0 +1,20 @@
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario Local.vbproj.AssemblyReference.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario Local.vbproj.SuggestedBindingRedirects.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\Debug\Inventario.exe.config
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\Debug\Inventario.exe
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\Debug\Inventario.pdb
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\Debug\Inventario.xml
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\bin\Debug\adodb.dll
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.FrmAux.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.FrmBarra.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.FrmInventario.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.FrmPermiso.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.FrmPrincipal.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.FrmReportes.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.Resources.resources
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario Local.vbproj.GenerateResource.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario Local.vbproj.CoreCompileInputs.cache
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario Local.vbproj.CopyComplete
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.exe
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.xml
+D:\Pedro Pablo Universidad\Inventario Local\Inventario Local\Inventario\obj\Debug\Inventario.pdb
